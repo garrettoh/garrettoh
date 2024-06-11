@@ -2,10 +2,10 @@
 <a href="https://www.linkedin.com/in/garrett-raese-710baa2b1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am an absolute computer nerd. I was infected with malware when I was 14 and I've been fascinated by computers since.
+For starters, I'm an absolute computer nerd. I was infected with malware when I was 14 and ever since then I've been fascinated with computer systems. 
 
 ## Objective
-During my life using computer systems for various reasons, I developed a passion for cybersecurity. I am excited at the new prospects that I see with the future of technology and cybersecurity and I would love to work as A Cybersecurity analyst in a SOC.
+During my life using computer systems for various reasons, I developed a passion for cybersecurity. I am excited at the new prospects with technology and cybersecurity and I would love to work as A Cybersecurity analyst in a SOC.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -13,10 +13,12 @@ During my life using computer systems for various reasons, I developed a passion
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Malware Static and Dynamic Analysis and Quarantine          | <a href="https://google.com">Malware Analysis lab</a>|
 | Network Security and Traffic Analysis | <a href="https://tryhackme.com/module/network-security-and-traffic-analysis">Network analysis with custom rules</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
