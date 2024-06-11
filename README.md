@@ -7,15 +7,13 @@ I am an absolute computer nerd. I got malware when I was 14 and I was fascinated
 ## Objective
 During my life using computer systems for various reasons, I developed a passion for cybersecurity. I am excited at the new prospects that I see with the future of technology and cybersecurity and I would love to work as A Cybersecurity analyst in a SOC.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Security and Traffic Analysis | <a href="https://tryhackme.com/module/network-security-and-traffic-analysis">Network analysis with custom rules</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
