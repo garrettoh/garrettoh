@@ -46,5 +46,7 @@ During my life using computer systems for various reasons, I developed a passion
 </div>
 
 ## Projects
--
+-  <a href="https://google.com">Active Directory Lab</a>
+- Malware Static and Dynamic Analysis
+- Network Security and Simulated traffick analysis
 
