@@ -16,7 +16,6 @@ During my life using computer systems for various reasons, I developed a passion
 | Network Security and Traffic Analysis | <a href="https://tryhackme.com/module/network-security-and-traffic-analysis">Network analysis with custom rules</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -38,7 +37,6 @@ During my life using computer systems for various reasons, I developed a passion
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
