@@ -13,7 +13,7 @@ During my life using computer systems for various reasons, I developed a passion
 |-----------------------------------------------|----------------------------|
 | Active Directory         | <a href="https://github.com/garrettoh/Active-Directory-Lab">Active Directory Lab</a>|
 | Malware Static and Dynamic Analysis and Quarantine          | <a href="https://github.com/garrettoh/MalwareAnalysisLab">Malware Analysis lab</a>|
-| Network Security and Traffic Analysis | <a href="https://github.com/garrettoh/MalwareAnalysisLab">Network analysis with custom rules</a>|
+| Network Security and Traffic Analysis | <a href="https://github.com/garrettoh/NetworkAnalysisLab">Network analysis with custom rules</a>|
 
 ## Tools
 
@@ -22,6 +22,9 @@ During my life using computer systems for various reasons, I developed a passion
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
    <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TShark-777BB4?&style=for-the-badge&logo=TShark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TCPDump-777BB4?&style=for-the-badge&logo=TCPDump&logoColor=white" />
+    
 </div>
 
 ### Endpoint
