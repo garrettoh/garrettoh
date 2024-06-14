@@ -47,6 +47,8 @@ During my life using computer systems for various reasons, I developed a passion
 
 ## Projects
 -  <a href="https://github.com/garrettoh/Active-Directory-Lab">Active Directory Lab</a>
-- Malware Static and Dynamic Analysis
-- Network Security and Simulated traffick analysis
+
+- <a href="https://github.com/garrettoh/MalwareAnalysisLab"> Malware Static and Dynamic Analysis </a>
+
+- <a href="https://github.com/garrettoh/NetworkAnalysisLab">Network Security and Simulated traffic analysis </a>
 
