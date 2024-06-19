@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/garrett-raese-710baa2b1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-For starters, I'm an absolute computer nerd. My computer was infected with malware when I was 14 and ever since then, I've been fascinated with computer systems. 
+For starters, I'm an absolute computer nerd. My computer was infected with malware when I was 14 and ever since then, I've been fascinated with computer systems. I really just love getting my hands dirty, and diving deep to understand how computer systems work.
 
 ## Objective
 During my life using computer systems for various reasons, I developed a passion for cybersecurity. I am excited at the new prospects with technology and cybersecurity and I would love to work as a Cybersecurity Analyst in a SOC.
@@ -14,6 +14,20 @@ During my life using computer systems for various reasons, I developed a passion
 | Active Directory         | <a href="https://github.com/garrettoh/Active-Directory-Lab">Active Directory Lab</a>|
 | Malware Static and Dynamic Analysis and Quarantine          | <a href="https://github.com/garrettoh/MalwareAnalysisLab">Malware Analysis lab</a>|
 | Network Security and Traffic Analysis | <a href="https://github.com/garrettoh/NetworkAnalysisLab">Network analysis with custom rules</a>|
+
+
+## Current Training/Study Material
+
+| Training/Certification                                         | Estimated Completion date        |
+|-----------------------------------------------|----------------------------|
+|<a href="https://tryhackme.com/path/outline/soclevel1"> TryHackMe SOC Level 1 Path  </a>       | Early July 2024|
+|<a href="https://www.comptia.org/certifications/network"> CompTIA Network+ </a>        | Early August 2024|
+|<a href="https://www.securityblue.team/why-btl1/"> Blue Team Level 1 Certification - BTL1 </a>| Mid September 2024|
+
+## Held Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
 
 ## Tools
 
@@ -40,10 +54,6 @@ During my life using computer systems for various reasons, I developed a passion
 
 </div>
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
 
 ## Projects
 -  <a href="https://github.com/garrettoh/Active-Directory-Lab">Active Directory Lab</a>
@@ -53,9 +63,3 @@ During my life using computer systems for various reasons, I developed a passion
 - <a href="https://github.com/garrettoh/NetworkAnalysisLab">Network Security and Simulated traffic analysis </a>
 
 
-## Current Training/Study Material
-<div>
-    TryHackMe SOC Level 1 (Projected to complete July 2024)
-    Network+ (Projected to complete July 2024)
-    Blue Team Level 1 Certification - BTL1 (Projected to Complete September 2024) 
-<div>
