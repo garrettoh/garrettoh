@@ -12,8 +12,8 @@ During my life using computer systems for various reasons, I developed a passion
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory         | <a href="https://github.com/garrettoh/Active-Directory-Lab">Active Directory Lab</a>|
-| Malware Static and Dynamic Analysis and Quarantine          | <a href="https://github.com/garrettoh/MalwareAnalysisLab">Malware Analysis lab</a>|
-| Network Security and Traffic Analysis | <a href="https://github.com/garrettoh/NetworkAnalysisLab">Network analysis with custom rules</a>|
+| Malware Static and Dynamic Analysis and Quarantine          | <a href="https://github.com/garrettoh/MalwareAnalysisLab">Malware Analysis Lab</a>|
+| Network Security and Traffic Analysis | <a href="https://github.com/garrettoh/NetworkAnalysisLab">Network analysis Lab</a>|
 
 
 ## Current Training/Study Material
