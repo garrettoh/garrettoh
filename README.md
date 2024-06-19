@@ -52,3 +52,10 @@ During my life using computer systems for various reasons, I developed a passion
 
 - <a href="https://github.com/garrettoh/NetworkAnalysisLab">Network Security and Simulated traffic analysis </a>
 
+
+## Current Training/Study Material
+<div>
+    TryHackMe SOC Level 1 (Projected to complete July 2024)
+    Network+ (Projected to complete July 2024)
+    Blue Team Level 1 Certification - BTL1 (Projected to Complete September 2024) 
+<div>
