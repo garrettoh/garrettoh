@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/garrett-raese-710baa2b1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-For starters, I'm an absolute computer nerd. My computer was infected with malware when I was 14 and ever since then, I've been fascinated with computer systems. I really just love getting my hands dirty, and diving deep to understand how computer systems work.
+For starters, I'm an absolute computer nerd. My computer was infected with malware when I was 14 and ever since then, I've been fascinated with computer systems. I really just love getting my hands dirty, and diving deep to understand how computers work.
 
 ## Objective
 During my life using computer systems for various reasons, I developed a passion for cybersecurity. I am excited at the new prospects with technology and cybersecurity and I would love to work as a Cybersecurity Analyst in a SOC.
