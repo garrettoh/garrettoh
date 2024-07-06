@@ -1,5 +1,6 @@
-# Hello, I'm garrettoh
+# Hello, I'm garrettoh <a href="https://tryhackme.com/p/garrettoh"><img src="https://tryhackme-badges.s3.amazonaws.com/garrettoh.png" alt="TryHackMe"/></a>
 <a href="https://www.linkedin.com/in/garrett-raese-710baa2b1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 
 For starters, I'm an absolute computer nerd. My computer was infected with malware when I was 14 and ever since then, I've been fascinated with computer systems. I really just love getting my hands dirty, and diving deep to understand how computers work.
