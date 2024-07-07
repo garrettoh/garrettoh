@@ -29,7 +29,7 @@ During my life using computer systems for various reasons, I developed a passion
 ## Held Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-   <img src="https://img.shields.io/badge/-SOC_Level_1-000000?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IOKJYJAAER.png"><img src="https://img.shields.io/badge/-SOC_Level_1-000000?&style=for-the-badge&logo=TryHackMe&logoColor=white" /> </a>
 </div>
 
 ## Tools
