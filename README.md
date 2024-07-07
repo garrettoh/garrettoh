@@ -1,5 +1,6 @@
-# Hello, I'm garrettoh <a href="https://tryhackme.com/p/garrettoh"><img src="https://tryhackme-badges.s3.amazonaws.com/garrettoh.png" alt="TryHackMe"/></a>
+# Hello, I'm garrettoh <a href="https://tryhackme.com/p/garrettoh">
 <a href="https://www.linkedin.com/in/garrett-raese-710baa2b1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://tryhackme-badges.s3.amazonaws.com/garrettoh.png" alt="TryHackMe"/></a>
 
 
 
@@ -21,13 +22,14 @@ During my life using computer systems for various reasons, I developed a passion
 
 | Training/Certification                                         | Estimated Completion date        |
 |-----------------------------------------------|----------------------------|
-|<a href="https://tryhackme.com/path/outline/soclevel1"> TryHackMe SOC Level 1 Path  </a>       | Early July 2024|
 |<a href="https://www.comptia.org/certifications/network"> CompTIA Network+ </a>        | July 15th 2024|
+|<a href="https://tryhackme.com/path/outline/jrpenetrationtester"> TryHackMe Jr Pentester Path  </a>       | Early August 2024|
 |<a href="https://www.securityblue.team/why-btl1/"> Blue Team Level 1 Certification - BTL1 </a>| Mid September 2024|
 
 ## Held Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+   <img src="https://img.shields.io/badge/-SOC_Level_1-000000?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </div>
 
 ## Tools
@@ -35,10 +37,9 @@ During my life using computer systems for various reasons, I developed a passion
 #### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TShark-777BB4?&style=for-the-badge&logo=TShark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TCPDump-777BB4?&style=for-the-badge&logo=TCPDump&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TShark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-1679A7?&style=for-the-badge&logo=Zeek&logoColor=white" />
     
 </div>
 
@@ -49,12 +50,24 @@ During my life using computer systems for various reasons, I developed a passion
         <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
-#### SIEM
+#### SIEM (Security Information and Event Management)
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-
-
 </div>
+
+#### DFIR (Data Forensics / Incident Response)
+<div>
+    <img src="https://img.shields.io/badge/-Autopsy-000000?&style=for-the-badge&logo=Autopsy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-000000?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+## Completed Training/Study Material
+
+| Training/Certification                                         | Estimated Completion date        |
+|-----------------------------------------------|----------------------------|
+|<a href="https://www.comptia.org/certifications/security"> CompTIA Security+  </a>       | June 4th 2024|
+|<a href="https://tryhackme.com/path/outline/soclevel1"> TryHackMe SOC Level 1 Path  </a>       | July 6th 2024|
+
 
 
 ## Projects
