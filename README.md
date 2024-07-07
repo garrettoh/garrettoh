@@ -63,10 +63,10 @@ During my life using computer systems for various reasons, I developed a passion
 
 ## Completed Training/Study Material
 
-| Training/Certification                                         | Estimated Completion date        |
+| Training/Certification                                         | Completion date        |
 |-----------------------------------------------|----------------------------|
-|<a href="https://www.comptia.org/certifications/security"> CompTIA Security+  </a>       | June 4th 2024|
-|<a href="https://tryhackme.com/path/outline/soclevel1"> TryHackMe SOC Level 1 Path  </a>       | July 6th 2024|
+|<a href="https://www.comptia.org/certifications/security"> CompTIA Security+  </a>       | April 30th - June 4th 2024|
+|<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IOKJYJAAER.png"> TryHackMe SOC Level 1 Path  </a>       | June 7th - July 6th 2024|
 
 
 
