@@ -11,19 +11,18 @@ During my life using computer systems for various reasons, I developed a passion
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Project / Cert         |
 |-----------------------------------------------|----------------------------|
 | Active Directory         | <a href="https://github.com/garrettoh/Active-Directory-Lab">Active Directory Lab</a>|
 | Malware Static and Dynamic Analysis and Quarantine          | <a href="https://github.com/garrettoh/MalwareAnalysisLab">Malware Analysis Lab</a>|
 | Network Security and Traffic Analysis | <a href="https://github.com/garrettoh/NetworkAnalysisLab">Network Analysis Lab</a>|
-
+| Identifying Web Vulnerabilites | <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KB43T7I3UD.png">THM JR Penetration Tester</a>|
 
 ## Current Training/Study Material
 
 | Training/Certification                                         | Estimated Completion date        |
 |-----------------------------------------------|----------------------------|
 |<a href="https://www.comptia.org/certifications/network"> CompTIA Network+ </a>        | July 15th 2024|
-|<a href="https://tryhackme.com/path/outline/jrpenetrationtester"> TryHackMe Jr Pentester Path  </a>       | Early August 2024|
 |<a href="https://www.securityblue.team/why-btl1/"> Blue Team Level 1 Certification - BTL1 </a>| Mid September 2024|
 
 ## Held Certifications
@@ -66,6 +65,7 @@ During my life using computer systems for various reasons, I developed a passion
 |-----------------------------------------------|----------------------------|
 |<a href="https://www.comptia.org/certifications/security"> CompTIA Security+  </a>       | April 30th - June 4th 2024|
 |<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IOKJYJAAER.png"> TryHackMe SOC Level 1 Path  </a>       | June 7th - July 6th 2024|
+|<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KB43T7I3UD.png"> TryHackMe Jr Pentester Path  </a>       | July 6th - July 12th 2024|
 
 
 
