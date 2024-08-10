@@ -4,7 +4,7 @@
 
 
 
-For starters, I'm an absolute computer nerd. My computer was infected with malware when I was 14 and ever since then, I've been fascinated with computer systems. I really just love getting my hands dirty, and diving deep to understand how computers work.
+For starters, I'm an absolute computer nerd. My computer was infected with malware when I was 14 and ever since then, I've been fascinated with computer systems. I really just love getting my hands dirty, and diving deep to understand how computers work. Currently very interested in Purple Team work and Reverse Engineering. 
 
 ## Objective
 During my life using computer systems for various reasons, I developed a passion for cybersecurity. I am excited at the new prospects with technology and cybersecurity and I would love to work as a Cybersecurity Analyst in a SOC.
