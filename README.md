@@ -16,7 +16,7 @@ During my life using computer systems for various reasons, I developed a passion
 |SOC Operations|<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IOKJYJAAER.png"> TryHackMe SOC Level 1 Cert  </a>                                                          |
 | Active Directory         | <a href="https://github.com/garrettoh/Active-Directory-Lab">Active Directory Lab</a>|
 | Malware Static and Dynamic Analysis and Quarantine          | <a href="https://github.com/garrettoh/MalwareAnalysisLab">Malware Analysis Lab</a>|
-| Network Security and Traffic Analysis | <a href="https://github.com/garrettoh/NetworkAnalysisLab">Network Analysis Lab</a>|
+| EDR SIEM Detection Engineering | <a href="https://github.com/garrettoh/SOCLab">SOC Home Lab</a>|
 | Identifying Web Vulnerabilites | <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KB43T7I3UD.png">TryHackMe JR Penetration Tester</a>|
 
 ## Current Training/Study Material
