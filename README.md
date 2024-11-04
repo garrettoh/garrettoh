@@ -13,7 +13,7 @@ During my life using computer systems for various reasons, I developed a passion
 
 | Skill                                         | Associated Project / Cert         |
 |-----------------------------------------------|----------------------------|
-|SOC Operations|<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IOKJYJAAER.png"> TryHackMe SOC Level 1 & 2 Cert  </a>                                                          |
+|SOC Operations|<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KB43T7I3UD.png"> TryHackMe SOC Level 1 & 2 Cert  </a>                                                          |
 | EDR, SIEM, Detection Engineering, Purple Teaming | <a href="https://github.com/garrettoh/SOCLab">SOC Home Lab</a>|
 | Malware Static and Dynamic Analysis and Quarantine          | <a href="https://github.com/garrettoh/MalwareAnalysisLab">Malware Analysis Lab</a>|
 | Active Directory         | <a href="https://github.com/garrettoh/Active-Directory-Lab">Active Directory Lab</a>|
