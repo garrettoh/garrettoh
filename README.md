@@ -24,8 +24,7 @@ During my life using computer systems for various reasons, I developed a passion
 | Training/Certification                                         | Estimated Completion date        |
 |-----------------------------------------------|----------------------------|
 |<a href="https://www.comptia.org/certifications/network"> CompTIA Network+ </a>        | Nov 8th 2024|
-|<a href="https://tryhackme.com/path/outline/soclevel2"> TryHackMe SOC Level 2 Path </a>| Early September 2024|
-|<a href="https://www.securityblue.team/why-btl1/"> Blue Team Level 1 Certification - BTL1 </a>| Mid September 2024|
+|<a href="https://www.securityblue.team/why-btl1/"> CompTIA CYSA+</a>| Nov 30th 2024|
 
 ## Held Certifications
 <div>
@@ -83,6 +82,7 @@ During my life using computer systems for various reasons, I developed a passion
 |<a href="https://www.comptia.org/certifications/security"> CompTIA Security+  </a>       | April 30th - June 4th 2024|
 |<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IOKJYJAAER.png"> TryHackMe SOC Level 1 Path  </a>       | June 7th - July 6th 2024|
 |<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KB43T7I3UD.png"> TryHackMe Jr Pentester Path  </a>       | July 6th - July 12th 2024|
+|<a href="https://tryhackme.com/path/outline/soclevel2"> TryHackMe SOC Level 2 Path </a>| August 27th 2024|
 
 
 
