@@ -13,7 +13,7 @@ During my life using computer systems for various reasons, I developed a passion
 
 | Skill                                         | Associated Project / Cert         |
 |-----------------------------------------------|----------------------------|
-|SOC Operations|<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IOKJYJAAER.png"> TryHackMe SOC Level 1 Cert  </a>                                                          |
+|SOC Operations|<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IOKJYJAAER.png"> TryHackMe SOC Level 1 & 2 Cert  </a>                                                          |
 | EDR, SIEM, Detection Engineering, Purple Teaming | <a href="https://github.com/garrettoh/SOCLab">SOC Home Lab</a>|
 | Malware Static and Dynamic Analysis and Quarantine          | <a href="https://github.com/garrettoh/MalwareAnalysisLab">Malware Analysis Lab</a>|
 | Active Directory         | <a href="https://github.com/garrettoh/Active-Directory-Lab">Active Directory Lab</a>|
@@ -30,7 +30,9 @@ During my life using computer systems for various reasons, I developed a passion
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-9B9B7D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IOKJYJAAER.png"><img src="https://img.shields.io/badge/-SOC_Level_1-9B9B7D?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
-<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KB43T7I3UD.png"><img src="https://img.shields.io/badge/-JR_Penetration_Tester-9B9B7D?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
+  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WMPXQKBCZV.png"><img src="https://img.shields.io/badge/-SOC_Level_2-9B9B7D?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
+  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KB43T7I3UD.png"><img src="https://img.shields.io/badge/-JR_Penetration_Tester-9B9B7D?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
+
 
 
 
