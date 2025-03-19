@@ -4,7 +4,7 @@
 
 
 
-For starters, I'm an absolute computer nerd. My computer was infected with malware when I was 14 and ever since then, I've been fascinated with computer systems. I really just love getting my hands dirty, and diving deep to understand how computers work. Currently very interested in Purple Team work and Reverse Engineering. 
+For starters, I'm an absolute computer nerd. My computer was infected with malware when I was 14 and ever since then, I've been fascinated with computer systems. I just love getting my hands dirty and diving deep to understand how computers work. Currently very interested in Purple Teamwork and Reverse Engineering. 
 
 ## Objective
 During my life using computer systems for various reasons, I developed a passion for cybersecurity. I am excited at the new prospects with technology and cybersecurity and I would love to work as a Cybersecurity Analyst in a SOC working as a Forensics Investigator or Reverse Engineer.
@@ -18,7 +18,7 @@ During my life using computer systems for various reasons, I developed a passion
 | Malware Static and Dynamic Analysis and Quarantine          | <a href="https://github.com/garrettoh/MalwareAnalysisLab">Malware Analysis Lab</a>|
 | Active Directory         | <a href="https://github.com/garrettoh/Active-Directory-Lab">Active Directory Lab</a>|
 | Identifying Web Vulnerabilites | <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KB43T7I3UD.png">TryHackMe JR Penetration Tester</a>|
-| Networking | <a href="">CCNA</a>|
+| Networking | <a href="https://learningnetwork.cisco.com/s/ccna-exam-topics">CCNA</a>|
 
 ## Current Training/Study Material
 
@@ -91,7 +91,7 @@ During my life using computer systems for various reasons, I developed a passion
 |<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IOKJYJAAER.png"> TryHackMe SOC Level 1 Path  </a>       | June 7th - July 6th 2024|
 |<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KB43T7I3UD.png"> TryHackMe Jr Pentester Path  </a>       | July 6th - July 12th 2024|
 |<a href="https://tryhackme.com/path/outline/soclevel2"> TryHackMe SOC Level 2 Path </a>| August 27th 2024|
-|<a href=""> Cisco CCNA </a>| Febuary 13th - March 18th 2025|
+|<a href="https://learningnetwork.cisco.com/s/ccna-exam-topics"> Cisco CCNA </a>| Febuary 13th - March 18th 2025|
 
 
 
