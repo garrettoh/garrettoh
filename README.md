@@ -25,6 +25,7 @@ During my life using computer systems for various reasons, I developed a passion
 | Training/Certification                                         | Estimated Completion date        |
 |-----------------------------------------------|----------------------------|
 |<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"> AWS Certified Cloud Practitioner</a>| April 8th 2025 |
+|<a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/"> AWS Solutions Architect Associate</a>| April 21st 2025 |
 
 ## Held Certifications / Certificates
 <div>
