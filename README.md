@@ -19,13 +19,13 @@ During my life using computer systems for various reasons, I developed a passion
 | Active Directory         | <a href="https://github.com/garrettoh/Active-Directory-Lab">Active Directory Lab</a>|
 | Identifying Web Vulnerabilites | <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KB43T7I3UD.png">TryHackMe JR Penetration Tester</a>|
 | Networking | <a href="https://learningnetwork.cisco.com/s/ccna-exam-topics">CCNA</a>|
+| AWS Cloud |<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"> AWS Certified Cloud Practitioner</a>|
 
 ## Current Training/Study Material
 
 | Training/Certification                                         | Estimated Completion date        |
 |-----------------------------------------------|----------------------------|
-|<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"> AWS Certified Cloud Practitioner</a>| April 8th 2025 |
-|<a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/"> AWS Solutions Architect Associate</a>| April 21st 2025 |
+|<a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/"> AWS Solutions Architect Associate</a>| April 19th 2025 |
 
 ## Held Certifications / Certificates
 <div>
