@@ -14,8 +14,9 @@ Currently focusing my efforts on malware research and development
 
 | Training/Certification                                         | Estimated Completion date        |
 |-----------------------------------------------|----------------------------|
-|<a href="https://www.offsec.com/courses/exp-301/"> OffSec Windows User Mode Exploit Development</a>| August 2025 |
-|<a href="https://www.offsec.com/courses/pen-300/"> OffSec Evasion Techniques and Breaching Defenses</a>| December 2025 |
+|<a href="https://www.offsec.com/courses/exp-301/"> OffSec Windows User Mode Exploit Development</a>| Current - August 2025 |
+|<a href="https://www.offsec.com/courses/pen-300/"> OffSec Evasion Techniques and Breaching Defenses</a>| Current - December 2025 |
+|<a href="https://github.com/garrettoh/MalDevStudy"> Process Injection MalDev Project </a> | Current |
 
 ## Skills
 
