@@ -9,11 +9,20 @@ For starters, I'm an absolute computer nerd. My computer was infected with malwa
 ## Objective
 During my life using computer systems for various reasons, I developed a passion for cybersecurity. I am excited at the new prospects with technology and cybersecurity and I would love to work as a Cybersecurity Analyst in a SOC working as a Forensics Investigator or Reverse Engineer.
 
+## Current Training/Study Material
+Currently focusing my efforts on malware research and development
+
+| Training/Certification                                         | Estimated Completion date        |
+|-----------------------------------------------|----------------------------|
+|<a href="https://www.offsec.com/courses/exp-301/"> OffSec Windows User Mode Exploit Development</a>| August 2025 |
+|<a href="https://www.offsec.com/courses/pen-300/"> OffSec Evasion Techniques and Breaching Defenses</a>| December 2025 |
+
 ## Skills
 
 | Skill                                         | Associated Project / Cert         |
 |-----------------------------------------------|----------------------------|
 |SOC Operations|<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WMPXQKBCZV.png"> TryHackMe SOC Level 1 & 2 Cert  </a>                                                          |
+| Malware Development | <a href="https://github.com/garrettoh/MalDevStudy">Process Injection Malware</a>|
 | EDR, SIEM, Detection Engineering, Purple Teaming | <a href="https://github.com/garrettoh/SOCLab">SOC Home Lab</a>|
 | Malware Static and Dynamic Analysis and Quarantine          | <a href="https://github.com/garrettoh/MalwareAnalysisLab">Malware Analysis Lab</a>|
 | Active Directory         | <a href="https://github.com/garrettoh/Active-Directory-Lab">Active Directory Lab</a>|
@@ -21,11 +30,7 @@ During my life using computer systems for various reasons, I developed a passion
 | Networking | <a href="https://learningnetwork.cisco.com/s/ccna-exam-topics">CCNA</a>|
 | AWS Cloud |<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"> AWS Certified Cloud Practitioner</a>|
 
-## Current Training/Study Material
 
-| Training/Certification                                         | Estimated Completion date        |
-|-----------------------------------------------|----------------------------|
-|<a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/"> AWS Solutions Architect Associate</a>| April 19th 2025 |
 
 ## Held Certifications / Certificates
 <div>
@@ -93,7 +98,7 @@ During my life using computer systems for various reasons, I developed a passion
 |<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KB43T7I3UD.png"> TryHackMe Jr Pentester Path  </a>       | July 6th - July 12th 2024|
 |<a href="https://tryhackme.com/path/outline/soclevel2"> TryHackMe SOC Level 2 Path </a>| August 27th 2024|
 |<a href="https://learningnetwork.cisco.com/s/ccna-exam-topics"> Cisco CCNA </a>| Febuary 13th - March 18th 2025|
-
+|<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"> AWS Cloud  </a>|  April 3rd 2025|
 
 
 ## Projects
